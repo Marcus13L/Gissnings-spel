@@ -1,0 +1,14 @@
+C:\Programeriu\obj\Debug\net8.0\Programeriu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programeriu\obj\Debug\net8.0\Programeriu.AssemblyInfoInputs.cache
+C:\Programeriu\obj\Debug\net8.0\Programeriu.AssemblyInfo.cs
+C:\Programeriu\obj\Debug\net8.0\Programeriu.csproj.CoreCompileInputs.cache
+C:\Programeriu\bin\Debug\net8.0\Programeriu.exe
+C:\Programeriu\bin\Debug\net8.0\Programeriu.deps.json
+C:\Programeriu\bin\Debug\net8.0\Programeriu.runtimeconfig.json
+C:\Programeriu\bin\Debug\net8.0\Programeriu.dll
+C:\Programeriu\bin\Debug\net8.0\Programeriu.pdb
+C:\Programeriu\obj\Debug\net8.0\Programeriu.dll
+C:\Programeriu\obj\Debug\net8.0\refint\Programeriu.dll
+C:\Programeriu\obj\Debug\net8.0\Programeriu.pdb
+C:\Programeriu\obj\Debug\net8.0\Programeriu.genruntimeconfig.cache
+C:\Programeriu\obj\Debug\net8.0\ref\Programeriu.dll
